@@ -1,1 +1,1 @@
-This is Pandy's first git project! :)
+This is yeetlukas's first git project! :)
